@@ -1,2 +1,2 @@
 ## Data Science Specialization
-### Data science coursera project
+### Data Scientist's Toolbox project
